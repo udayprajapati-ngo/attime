@@ -18,7 +18,7 @@ Pro landing website for Attime.in - Smart Attendance, Simplified
 
 ## Customization
 - Email: search support@attime.in and replace
-- Phone: search +91 9XXXX XXXXX
+- Phone: search +91 964300 5599
 - Colors: #00FF88 (green), #070F1F (dark blue)
 
 Built with Tailwind CDN - no build needed.
